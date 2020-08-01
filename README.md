@@ -12,10 +12,24 @@ Las principales caracteristicas y/o beneficios de un microservicio son:
 
 - Realizan una tarea específica, pero la realizan perfectamente.
 - Son completamente reutilizables
-- Permiten que un sistema sea escalable
+- Los microservicios son escalable de manera independiente
 - Manejan y controla su propia lógica de negocio
 - Controlan su propia base de datos
 - Son mucho más facil de mantener
 - Se pueden comunicar entre ellos
 - Pueden ser llamados desde distintos lenguajes
 - Los microservicios pueden desacoplarse completamente de un sistema
+- Permite adoptar nuevas tecnologias, inclusive solo para algunos microservicios
+- Implementación continua
+- El desarrollo puede ser independiente del equipo
+- Facil de entender, y de adaptar para nuevos programadores
+- Los microservicios funcionan en un ámbito reducido
+
+## Desventajas
+
+Tambien existen algunas desventajas asociadas a los microservicios, los cuales son:
+
+- Transacciones distribuidas.
+- Pruebas generales del sistema son complejas de implementar, mas bien seran pruebas por cada microservicio.
+- La implementación podria ser más compleja
+- Podrían existir problemas transversales
