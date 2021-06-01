@@ -23,7 +23,6 @@ Las principales caracteristicas y/o beneficios de un microservicio son:
 - Implementación continua
 - El desarrollo puede ser independiente del equipo
 - Facil de entender, y de adaptar para nuevos programadores
-- Los microservicios funcionan en un ámbito reducido
 
 ## Desventajas
 
